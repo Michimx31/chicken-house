@@ -1,0 +1,10 @@
+led install rpi_ws281x library 
+
+a simple:
+sudo pip3 uninstall rpi_ws281x
+and
+sudo pip install rpi_ws281x
+did the trick for me 
+
+
+aber installation mit --break-system-packages
